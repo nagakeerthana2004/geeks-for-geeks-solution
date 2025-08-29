@@ -1,1 +1,1 @@
-# geeks-for-geeks-solution
+# geeks-for-geeks-solution.c
